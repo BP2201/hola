@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "810280742607",
+    "firebase_url": "https://gamecard-8100c.firebaseio.com",
+    "project_id": "gamecard-8100c",
+    "storage_bucket": "gamecard-8100c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810280742607:android:d91209e08ce5902e",
+        "android_client_info": {
+          "package_name": "com.example.gamecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810280742607-sdolbht7pehr9enu3g2a24nihuqasf5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamecard",
+            "certificate_hash": "7fd0240e8df23e73c085af217ab30bc7ffba7caf"
+          }
+        },
+        {
+          "client_id": "810280742607-uhiprgese759ec4dalqk5qbglhn5kk7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFnCsmTxSdWE5K1XJpGvsqClBq8Jcd8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810280742607-uhiprgese759ec4dalqk5qbglhn5kk7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
